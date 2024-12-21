@@ -1,0 +1,10 @@
+[input]
+method = fifo
+source = /home/rohan/cava.fifo
+sample_rate = 48000
+
+
+[general]
+framerate=60
+sensitivity=5
+
