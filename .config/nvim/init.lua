@@ -25,6 +25,10 @@ vim.g.maplocalleader = "\\"
 require("lazy").setup({
   spec = {
 		{
+  			'Exafunction/codeium.vim',
+  			event = 'BufEnter'
+		},
+		{
 			"github/copilot.vim"
 		},
 		{
