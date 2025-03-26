@@ -25,7 +25,6 @@ require("lazy").setup({
   spec = {
     {
       "github/copilot.vim",
-      event = "BufEnter"
     },
     {
       "catppuccin/nvim",
