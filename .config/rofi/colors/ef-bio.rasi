@@ -1,0 +1,10 @@
+/* Ef-Bio */
+* {
+    background:     #11111b; /* bg_main */
+    background-alt: #313244; /* bg_dim */
+    foreground:     #cdd6f4; /* fg_main */
+    selected:       #cba6f7; /* bg_mode_line */
+    selected-fg:    #11111b; /* fg_mode_line */
+    active:         #b7bdf8; /* lavender */
+    urgent:         #ef6560; /* red */
+}
